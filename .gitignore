@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+*./src/firebase.config.js
+*./src/firebase.config.ts
+*./src/firebase.config.tsx
+*./src/firebase.config.jsx
+*./src/firebase.config.json
+*./src/firebase.config.yaml
+*./src/firebase.config.yml
+*./src/firebase.config.env
+*./src/firebase.config.env.*
